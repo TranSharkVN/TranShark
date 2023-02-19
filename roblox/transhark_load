@@ -79,7 +79,7 @@ function YtPr()
 	TextLabel.Position = UDim2.new(0.401250005, 0, 0.169999987, 0)
 	TextLabel.Size = UDim2.new(0.534722269, 0, 0.310000002, 0)
 	TextLabel.Font = Enum.Font.Highway
-	TextLabel.Text = " acsu123"
+	TextLabel.Text = "Tran "
 	TextLabel.TextColor3 = Color3.fromRGB(0, 0, 0)
 	TextLabel.TextScaled = true
 	TextLabel.TextSize = 14.000
@@ -523,7 +523,7 @@ end
 
 local list = {
 	--BedWars
-	[2619619496] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/GAME/main/bedwar.txt'))()",
+	[2619619496] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/123/GAME/main/bedwar.txt'))()",
 
 	--Element Battle Ground
 	[224422602] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/SCRIPTS/elementBattlegr.lua'))()",
@@ -682,5 +682,5 @@ if getgenv().Key and listPre[game.GameId] ~= nil then
 elseif not getgenv().Key and list[game.GameId] ~= nil then
 	loadstring(list[tonumber(game.GameId)])()
 else
-	game.Players.LocalPlayer:Kick("game not support, discord.gg/hohohub")
+	game.Players.LocalPlayer:Kick("game not support, discord.gg/XTyu7NhCwm")
 end
