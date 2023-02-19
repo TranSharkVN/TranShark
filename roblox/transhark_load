@@ -67,7 +67,7 @@ function YtPr()
 	ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 	ImageLabel.Position = UDim2.new(0.057500001, 0, 0.0700000003, 0)
 	ImageLabel.Size = UDim2.new(0.295138925, 0, 0.850000024, 0)
-	ImageLabel.Image = "http://www.roblox.com/asset/?id=12130059538"
+	ImageLabel.Image = "http://www.roblox.com/asset/?id=12535521685"
 
 	UICorner_2.CornerRadius = UDim.new(0, 60)
 	UICorner_2.Parent = ImageLabel
@@ -79,7 +79,7 @@ function YtPr()
 	TextLabel.Position = UDim2.new(0.401250005, 0, 0.169999987, 0)
 	TextLabel.Size = UDim2.new(0.534722269, 0, 0.310000002, 0)
 	TextLabel.Font = Enum.Font.Highway
-	TextLabel.Text = "Tran "
+	TextLabel.Text = "Tran Shark"
 	TextLabel.TextColor3 = Color3.fromRGB(0, 0, 0)
 	TextLabel.TextScaled = true
 	TextLabel.TextSize = 14.000
@@ -171,7 +171,7 @@ function MakePrGui()
 	ShopDomain.Size = UDim2.new(0.512133896, 0, 0.129692838, 0)
 	ShopDomain.ZIndex = 2
 	ShopDomain.Font = Enum.Font.LuckiestGuy
-	ShopDomain.Text = "english.shophohohub.com"
+	ShopDomain.Text = "english.shoptranshark.com"
 	ShopDomain.TextColor3 = Color3.fromRGB(255, 255, 255)
 	ShopDomain.TextScaled = true
 	ShopDomain.TextSize = 14.000
@@ -186,7 +186,7 @@ function MakePrGui()
 	Char1.BorderSizePixel = 0
 	Char1.Position = UDim2.new(0.249557167, 0, -0.000714838505, 0)
 	Char1.Size = UDim2.new(0.202510461, 0, 0.399317414, 0)
-	Char1.Image = "rbxassetid://10110319522"
+	Char1.Image = "rbxassetid://12535521685"
 
 	robux1.Name = "robux1"
 	robux1.Parent = PrEz
