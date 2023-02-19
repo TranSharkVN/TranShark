@@ -269,7 +269,7 @@ function MakePrGui()
 	eggo2_2.Size = UDim2.new(0.388284504, 0, 0.0904436857, 0)
 	eggo2_2.ZIndex = 2
 	eggo2_2.Font = Enum.Font.Cartoon
-	eggo2_2.Text = "Server support 24/7 in discord.gg/hohohub"
+	eggo2_2.Text = "Server hỗ trợ 24/7 in discord.gg/XTyu7NhCwm"
 	eggo2_2.TextColor3 = Color3.fromRGB(255, 255, 255)
 	eggo2_2.TextScaled = true
 	eggo2_2.TextSize = 14.000
@@ -339,7 +339,7 @@ function MakePrGui()
 	CloseButton.Position = UDim2.new(0.441004187, 0, 0, 0)
 	CloseButton.Size = UDim2.new(0.185774058, 0, 0.100682594, 0)
 	CloseButton.Font = Enum.Font.Cartoon
-	CloseButton.Text = "[Close]"
+	CloseButton.Text "
 	CloseButton.TextColor3 = Color3.fromRGB(255, 0, 0)
 	CloseButton.TextScaled = true
 	CloseButton.TextSize = 14.000
@@ -355,7 +355,7 @@ function MakePrGui()
 		while wait(1) do
 			if PrEz then
 				sec = sec - 1
-				CloseButton.Text = "[Close "..sec.."s ]"
+				CloseButton.Text = "[Đóng  "..sec.."s ]"
 			else
 				break
 			end
@@ -462,7 +462,7 @@ function CreateSupportList(list_game)
 	Tittle.Position = UDim2.new(0.0399999991, 0, 0, 0)
 	Tittle.Size = UDim2.new(0, 265, 0, 39)
 	Tittle.Font = Enum.Font.Highway
-	Tittle.Text = "Game Suported"
+	Tittle.Text = "Hỗ Trợ "
 	Tittle.TextColor3 = Color3.fromRGB(255, 255, 255)
 	Tittle.TextScaled = true
 	Tittle.TextSize = 14.000
